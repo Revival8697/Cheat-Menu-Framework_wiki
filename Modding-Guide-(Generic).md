@@ -1,4 +1,4 @@
-# Modding Guide
+# Basic LonaRPG Modding Guide
 
 So gonna post a modding guide here since people are having some difficulty, and be warned I might get stuff wrong, but this is how it works for me.
 
