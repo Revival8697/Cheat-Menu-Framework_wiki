@@ -2,9 +2,10 @@
 
 So gonna post a modding guide here since people are having some difficulty, and be warned I might get stuff wrong, but this is how it works for me.
 
-1st rule, some mods do not work with each other<br>
-2nd rule, some mods are very outdated and may require a older version of the game to work, so check if the mod was updated for the latest version
-3rd rule, you MUST launch the game to the title screen once before modding.
+Rules:
+1. Some mods do not work with each other
+2. Some mods are very outdated and may require a older version of the game to work, so check if the mod was updated for the latest version
+3. You MUST launch the game to the title screen once before modding.
 
 Mods being used as an example [Lona Big Booba & Ultra Mod Manager](https://f95zone.to/threads/lonarpg-v0-9-1-0-2-beta-eccma417.49993/post-10907800)
 
