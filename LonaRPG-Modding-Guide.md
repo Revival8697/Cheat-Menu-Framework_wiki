@@ -98,4 +98,4 @@ This may completely wrong, english is not my first language and I explained to b
 
 ### Page Author's Note
 
-Apart from some grammar and formatting, this guide is verbatim copied as posted by the guide author. Here's the link to the specific post of F95: [link](https://f95zone.to/posts/14202674)
+Apart from some grammar correction, formatting and a slight change with regards to UMM and the load order, this guide is verbatim copied as posted by the guide author. Here's the link to the specific post of F95: [link](https://f95zone.to/posts/14202674)
