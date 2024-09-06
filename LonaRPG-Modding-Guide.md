@@ -6,6 +6,7 @@ Rules:
 1. Some mods do not work with each other
 2. Some mods are very outdated and may require a older version of the game to work, so check if the mod was updated for the latest version
 3. You MUST launch the game to the title screen once before modding.
+4. NEVER install a mod update over the top of an old mod version. ALWAYS do a clean install. This rule also applies to game updates.
 
 Mods being used as an example [Lona Big Booba & Ultra Mod Manager](https://f95zone.to/threads/lonarpg-v0-9-1-0-2-beta-eccma417.49993/post-10907800)
 
