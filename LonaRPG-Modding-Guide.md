@@ -27,18 +27,20 @@ Some basics:
 
 4. Open `Game.exe`. After it finishes loading, use the arrow keys to navigate to `MODS` and press `Z`.
     ![game menu](assets/game_menu.png)
-    - The mod name is <font color="red">red</font>, which means it is disabled. Navigate to the mod and press `Z` to enable it.
+    - The mod name is ${\color{red}red}$, which means it is disabled. Navigate to the mod and press `Z` to enable it.
         ![disabled state](assets/disabled_mod.png)
 
-    - The mod name is <font color="yellow">yellow</font>, which means it is enabled but not started. Navigate to the `Accept` button and restart the game.
+    - The mod name is ${\color{yellow}yellow}$, which means it is enabled but not started. Navigate to the `Accept` button, press `Z` and restart the game.
         ![enabled state](assets/enabled_mod.png)
 
-    - The mod name is <font color="green">green</font>, which means it is enabled and started.
+    - The mod name is ${\color{green}green}$, which means it is enabled and started.
         ![started state](assets/started_mod.png)
 
-5. Now, when you are in a save, press F9, and the Cheat Menu will show up. Note that on some keyboards, the F9 key has an alternate function, which may require you to press Fn Lock to switch.
-    [F9 menu](LonaRPG-Modding-Guide.md)
-
+5. Now, when you are in a save, press `F9`, and the Cheat Menu will show up.
+    ![F9 menu](assets/f9_menu.png)
+    
+> [!NOTE]
+> On some keyboards, the `F9` key has alternate function, which will require you to press the `Fn Lock` key to switch.
 # Extra Resources
 - https://f95zone.to/posts/14202674
 - https://f95zone.to/posts/9588500
