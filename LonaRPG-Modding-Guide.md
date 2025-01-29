@@ -33,7 +33,7 @@ Some Basics:
 
         ![disabled state](assets/disabled_mod.png)
 
-    - When the mod name is ${\color{yellow}yellow}$, it is enabled but not running. Navigate to the `Accept` button, press `Z`, and restart the game.
+    - When the mod name is ${\color{yellow}yellow}$, it is enabled but not running. Navigate to the `Restart to apply` button, and press `Z` to restart the game.
 
         ![enabled state](assets/enabled_mod.png)
 
